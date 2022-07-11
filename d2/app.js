@@ -43,5 +43,12 @@
 // let a='raj';
 // console.log(`hello  I am  ${a} age is ${20}`);
 
-console.log(`this is 1st line
-this is 2nd line`);
+// console.log(`this is 1st line
+// this is 2nd line`);
+
+const a={
+    F:"Raj",
+    L:"Mishra"
+}
+
+console.log(`hello I am ${a.F} ${a.L}`);
