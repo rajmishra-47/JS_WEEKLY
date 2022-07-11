@@ -1,15 +1,37 @@
 // all ES6 concepts
 
-function a(){
+// function a(){
 
-    return "hello";
-}
+//     return "hello";
+// }
 
-console.log(a());
+// console.log(a());
 
-function b(c,d){
+// function b(c,d){
 
-    return (c+d);
-}
+//     return (c+d);
+// }
 
-console.log(b(1,2));
+
+
+
+///ARROW-Function;
+
+
+
+// console.log(b(1,2));
+
+// const c=()=>{
+
+//     return "hello";
+// }
+
+// console.log(c());;
+
+
+// const d=(a,b)=>{
+
+//     return (a+b);
+// }
+
+// console.log(d(1,2));
