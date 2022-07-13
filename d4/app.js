@@ -25,10 +25,17 @@
 
 // console.log(c);
 
-let a=[0,1,2,3,4,5,6,7,8,9];
+// let a=[0,1,2,3,4,5,6,7,8,9];
 
 
-const c=a.map(b=> b+1)
+// const c=a.map(b=> b+1)
 
-console.log(c);
+// console.log(c);
 
+
+
+// let a=[0,1,2,3,4,5];
+
+// const red=a.reduce((c,d)=> c+d,0);
+
+// console.log(red);
