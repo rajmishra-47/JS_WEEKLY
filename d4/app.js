@@ -39,3 +39,13 @@
 // const red=a.reduce((c,d)=> c+d,0);
 
 // console.log(red);
+
+// let a=[0,1,2,3,4,5,6,7,8,9];
+
+// const b=a.some(a=>a>1)
+
+// console.log(b);
+
+// const c=a.some(a=>a>10)
+
+// console.log(c);
