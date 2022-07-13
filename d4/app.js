@@ -49,3 +49,6 @@
 // const c=a.some(a=>a>10)
 
 // console.log(c);
+
+
+/// Every functions checks for every element in the array;
