@@ -24,3 +24,11 @@
 // const c=a.filter(b=>b>=3)
 
 // console.log(c);
+
+let a=[0,1,2,3,4,5,6,7,8,9];
+
+
+const c=a.map(b=> b+1)
+
+console.log(c);
+
