@@ -9,3 +9,4 @@ console.log(`${a}`);
 console.log(a.startsWith('R'));
 console.log(a.startsWith('a'));
 console.log(a.endsWith('j'));
+console.log(a.endsWith('j'));
