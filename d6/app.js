@@ -24,8 +24,8 @@
 
 //Default parameters
 
-function add(a,b=1){
-    return a+b;
-}
+// function add(a,b=1){
+//     return a+b;
+// }
 
-console.log(add(2));
+// console.log(add(2));
