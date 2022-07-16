@@ -11,11 +11,25 @@
 
 // SPREAD
 
-let arr=['a','b','c'];
+// let arr=['a','b','c'];
 
-function pt(n1,n2,n3){
+// function pt(n1,n2,n3){
 
-    return (n1+" "+n2+" "+n3);
-}
+//     return (n1+" "+n2+" "+n3);
+// }
 
-console.log(pt(...arr));
+// console.log(pt(...arr));
+
+
+
+
+// With OBJECT
+
+// const a={
+//     name:"raj",
+//     age:"20"
+// }
+
+// const {...rest}=a;
+
+// console.log(rest);
